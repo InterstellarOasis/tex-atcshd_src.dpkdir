@@ -1,2 +1,7 @@
 /.cache/
 /build/
+/textures/atcshd/re/*
+src/build/*
+scripts/atcshdre.shader
+*.blend1
+__pycache__
