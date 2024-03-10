@@ -1,6 +1,12 @@
-# Advanced Tremulous Combat Simulator
+# Advanced Tremulous Combat Simulator texture set for Unvanquished
 
-This is a map ported from the [Tremulous](https://tremulous.net) game to the [Unvanquished](https://unvanquished.net) game. It features a symetrical combat simulation to train new recruits in fighting the alien menace.
+## About
+
+ATCSHD is a set of textures from the ATCSHD map. Most of the textures used in ATCS map were eQ2 textures by [Yves “evillair” Allaire](https://evillair.net) and they were remade from scratch by various contributors. Some other non-eQ2 textures were also part of the textures set, some being replaced as well.
+
+This texture set features an industrial theme with some Quake 2 feeling.
+
+This is a texture set from the [Tremulous](https://tremulous.net) game to the [Unvanquished](https://unvanquished.net) game.
 
 It is ported from the Tremulous GPP package from [ingar.intranifty.net/files/tremulous/base](http://ingar.intranifty.net/files/tremulous/base/).
 
@@ -16,32 +22,17 @@ This package is meant to be built using [Urcheon](https://github.com/DaemonEngin
 
 Unvanquished port:
 
-* Thomas “illwieckz” Debesse <hidden email="dev [ad] illwieckz.net"/> ([gg.illwieckz.net](https://gg.illwieckz.net))
-
-Mapping:
-
-* Nicolas “Jex“ Jansens <hidden email="jex [ad] orodu.net"/>
-* Stijn “Ingar“ Buys <hidden email="ingar [ad] osirion.org"/> ([ingar.intranifty.net](http://ingar.intranifty.net))
-* Superpie
+- Thomas “illwieckz” Debesse <hidden email="dev [ad] illwieckz.net"/> ([gg.illwieckz.net](https://gg.illwieckz.net))
 
 Textures:
 
-* Georges "TRaK" Grondin <hidden email="drognin [ad] gmail.com"/> ([trak.mercenariesguild.net/node/3](https://web.archive.org/web/20131109224800/http://trak.mercenariesguild.net/node/3))
-* Stijn “Ingar“ Buys
-* Superpie
-
-Sound effects:
-
-* Stijn “Ingar“ Buys
+- Georges "TRaK" Grondin <hidden email="drognin [ad] gmail.com"/> ([trak.mercenariesguild.net/node/3](https://web.archive.org/web/20131109224800/http://trak.mercenariesguild.net/node/3))
+- [Stijn “Ingar” Buys](http://ingar.intranifty.net)
+- Superpie
 
 Special thanks:
 
-* Tim “Timbo” Angus <hidden email="tim [ad] ngus.net"/>
-* Chris “Lakitu7” Schwarz <hidden email="lakitu7 [ad] gmail.com"/>
-* Asa “Norfenstein” Kravets
-* Dan “kharnov” Floda
-* ravyn
-* Who-\[Soup]
+- [Yves “evillair” Allaire](https://evillair.net)
 
 
 ## Legal
